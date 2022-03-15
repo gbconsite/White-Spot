@@ -75,11 +75,14 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - markdown.extensions.toc: # still to rename 
+  - markdown.extensions.toc:
       baselevel: 1
       permalink: true
   - toc:
       title: Inhalt
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
       
 plugins:
   - minify:
