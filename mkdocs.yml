@@ -89,3 +89,5 @@ plugins:
       minify_css: true
       htmlmin_opts:
           remove_comments: true
+  - search:
+      lang: de
