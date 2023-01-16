@@ -1,17 +1,17 @@
 # Impressum
 
-## Kontakt und Support für Whitespot
+## Kontakt und Support für GeoSpot!
 
-|Vertrieb|Technischer Support|
+|Whitespot-Analyse, Bezirksplaner, Regio-Analyse|Mediaplaner|
 |---|---|
-|**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**|**Dominik Weckmüller<br>[dominik.weckmueller@gbconsite.de](mailto:dominik.weckmueller@gbconsite.de)<br>Telefon: +49 89 / 309 052 974**|
+|**Marjana Vollbach<br>[marjana.vollbach@gbconsite.de](mailto:marjana.vollbach@gbconsite.de)<br>Telefon: +49 89 / 309 052 978**|**Alina Erke<br>[alina.erke@gbconsite.de](mailto:alina.erke@gbconsite.de)<br>Telefon: +49 89 / 309 052 975**|
 
 
 **Kontaktieren Sie uns für Ihre kostenlose Demoversion! 
-Gerne klären wir in einem unverbindlichen Erstgespräch Ihre Anforderungen und die Eignung von Whitespot für Ihre Fragestellung ab.**
+Gerne klären wir in einem unverbindlichen Erstgespräch Ihre Anforderungen und die Eignung von GeoSpot! für Ihre Fragestellung ab.**
 
 ## Impressum
-gb consite GmbH Geomarketing Software & Beratung<br>
+gb consite GmbH Geomarketing & Logistik Software<br>
 Mittenheimer Straße 58<br>
 85764 Oberschleißheim, Deutschland<br>
 
