@@ -50,6 +50,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.indexes
     - content.action.edit
+    - content.code.copy
     
   font: false
   icon:  # from .icons path. Add to theme override for custom logo.
